@@ -1,6 +1,6 @@
 # TodoFox
 
--> ![Logo](https://addons.cdn.mozilla.net/user-media/previews/thumbs/109/109292.png?modified=137614484) <-
+![Logo](https://addons.cdn.mozilla.net/user-media/previews/thumbs/109/109292.png?modified=137614484)
 
 [TodoFox](https://addons.mozilla.org/fr/firefox/addon/todofox/) is a simple Todo List located in the sidebar. This is not a "website related" addon as Todoist !
 
